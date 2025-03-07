@@ -4,5 +4,10 @@
   "discipline": "engineering",
   "targetAudience": "UG Engg",
   "learningObjectives": "learning objects are as follows",
-  "experiments": []
+  "experiments": [
+    {
+      "name": "Exp1",
+      "folder": "exp1"
+    }
+  ]
 }
